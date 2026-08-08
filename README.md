@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=0:DDF4EA,100:69C3A5&height=150&section=header&text=sojjeoi%27s%20GitHub&fontColor=FFFFFF&fontSize=40&fontAlignY=45&animation=blinking" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=0:DDF4EA,100:69C3A5&height=150&section=header&text=sojjeoi%27s%20GitHub&fontColor=FFFFFF&fontSize=40&fontAlignY=45" />
 </div>
 
 ## 🛠️ Languages & Frameworks
