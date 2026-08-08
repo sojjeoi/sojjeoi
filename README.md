@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=0:FFD1DC,100:FF69B4&height=150&section=header&text=sojjeoi%27s%20GitHub&fontColor=FFFFFF&fontSize=40&fontAlignY=45&animation=blinking" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=0:DDF4EA,100:69C3A5&height=150&section=header&text=sojjeoi%27s%20GitHub&fontColor=FFFFFF&fontSize=40&fontAlignY=45&animation=blinking" />
 </div>
 
 ## 🛠️ Languages & Frameworks
@@ -16,8 +16,3 @@
   <a href="https://github.com/"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"></a>
 </p>
 
-## 🌱 GitHub Contributions
-
-<div align="center">
-  <img width="100%" src="https://ghchart.rshah.org/00D6A5/sojjeoi" alt="sojjeoi's GitHub contribution chart" />
-</div>
