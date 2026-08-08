@@ -15,3 +15,9 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
 </p>
+
+<h2>🌱 Solved.ac Grass</h2>
+
+<div align="center">
+  <img src="https://mazandi.herokuapp.com/api/random?tier=platinum%202&theme=warm" alt="Platinum II Warm solved.ac grass" />
+</div>
