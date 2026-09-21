@@ -1,5 +1,5 @@
 <div align="center">
-<img src="./soul-eater-banner.svg" alt="sojjeoi's GitHub" width="700"/>
+<img src="./soul-eater-banner.svg" alt="sojjeoi's GitHub" width="480"/>
 </div>
 
 <br/>
