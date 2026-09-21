@@ -2,10 +2,6 @@
   <img width="100%" src="./banner-night.svg" alt="sojjeoi's GitHub" />
 </div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2500&pause=800&color=7C3AED&center=true&vCenter=true&width=900&lines=SYSTEM+BOOTING...;BACKEND+%26+CLOUD+INFRA+DEVELOPER;PYTHON+%7C+FASTAPI+%7C+KUBERNETES;AI+AGENT+%7C+CLOUD+ARCHITECT;WELCOME+TO+MY+CODE+UNIVERSE" />
-</div>
-
 <h2 align="center"><i>Technologies</i></h2>
 
 <table align="center">
