@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 380" width="1200" height="380">
+  <rect x="4" y="4" width="1192" height="372" rx="24" fill="#1B1830"/>
+
+  <text x="600" y="60" text-anchor="middle" font-size="32" font-weight="700" font-style="italic" fill="#F2EEFB" font-family="Arial, Helvetica, sans-serif">&#9679; About Me</text>
+  <line x1="80" y1="86" x2="1120" y2="86" stroke="#3A3560" stroke-width="1.5"/>
+
+  <text x="600" y="132" text-anchor="middle" font-size="20" fill="#E7E4F2" font-family="Arial, Helvetica, sans-serif"><tspan font-weight="400">Hello! I'm </tspan><tspan font-weight="700">SoJeong Park</tspan><tspan font-weight="400">, an IT student interested in</tspan></text>
+
+  <text x="600" y="166" text-anchor="middle" font-size="20" font-weight="400" fill="#E7E4F2" font-family="Arial, Helvetica, sans-serif">cloud infrastructure, backend development, and reliable systems.</text>
+
+  <text x="600" y="200" text-anchor="middle" font-size="20" font-weight="400" fill="#E7E4F2" font-family="Arial, Helvetica, sans-serif">I enjoy learning how services work behind the scenes and building</text>
+
+  <text x="600" y="234" text-anchor="middle" font-size="20" fill="#E7E4F2" font-family="Arial, Helvetica, sans-serif"><tspan font-weight="400">projects using </tspan><tspan font-weight="700">Python, FastAPI, SQL, Kubernetes, and AWS.</tspan></text>
+
+  <text x="600" y="268" text-anchor="middle" font-size="20" font-weight="400" fill="#E7E4F2" font-family="Arial, Helvetica, sans-serif">I'm also exploring AI agents and cloud-native technologies, with</text>
+
+  <text x="600" y="302" text-anchor="middle" font-size="20" font-weight="400" fill="#E7E4F2" font-family="Arial, Helvetica, sans-serif">a focus on designing practical and stable systems.</text>
+
+  <text x="600" y="336" text-anchor="middle" font-size="20" font-weight="400" fill="#E7E4F2" font-family="Arial, Helvetica, sans-serif">I continue to learn through hands-on projects and turn what I</text>
+
+  <text x="600" y="360" text-anchor="middle" font-size="20" font-weight="400" fill="#E7E4F2" font-family="Arial, Helvetica, sans-serif">learn into working solutions.</text>
+</svg>

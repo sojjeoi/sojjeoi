@@ -2,6 +2,10 @@
   <img width="100%" src="./banner-night.svg" alt="sojjeoi's GitHub" />
 </div>
 
+<div align="center">
+  <img width="100%" src="./about-me.svg" alt="About Me" />
+</div>
+
 <h2 align="center"><i>Technologies</i></h2>
 
 <table align="center">
