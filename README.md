@@ -11,6 +11,8 @@ I'm also exploring AI agents and cloud-native technologies, with a focus on desi
 I continue to learn through hands-on projects and turn what I learn into working solutions.
 </p>
 
+<br/><br/>
+
 <h2 align="center"><i>Technologies</i></h2>
 
 <table align="center">
