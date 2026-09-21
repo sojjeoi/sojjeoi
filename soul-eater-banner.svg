@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="1200" height="320">
+  <!-- background -->
+  <rect width="1200" height="320" rx="28" fill="#0b0b0e"/>
+
+  <!-- big condensed title (vertically stretched) -->
+  <g transform="translate(0 -59) scale(1 1.32)">
+    <text x="245" y="200" font-family="Arial Black, Arial, sans-serif" font-weight="900"
+          font-size="148" fill="#f2f2f2" text-anchor="middle" letter-spacing="2">SOJ</text>
+    <text x="955" y="200" font-family="Arial Black, Arial, sans-serif" font-weight="900"
+          font-size="148" fill="#f2f2f2" text-anchor="middle" letter-spacing="2">JEOI</text>
+  </g>
+
+  <!-- box (pink fill + dark red outline, passes behind the skull) -->
+  <rect x="345" y="122" width="510" height="78" fill="#f2b8c6" stroke="#8e1220" stroke-width="6"/>
+  <text x="435" y="177" font-family="Arial Black, Arial, sans-serif"
+        font-size="50" font-weight="900" font-style="italic" fill="#6e0e1a" text-anchor="middle">GIT</text>
+  <text x="765" y="177" font-family="Arial Black, Arial, sans-serif"
+        font-size="50" font-weight="900" font-style="italic" fill="#6e0e1a" text-anchor="middle">HUB</text>
+
+  <!-- skull (Maka hair color: muted ash olive) -->
+  <g stroke="#4a1420" stroke-width="7" stroke-linejoin="round" stroke-linecap="round">
+    <!-- thick twin tails hanging straight down -->
+    <path d="M546 100 L505 178 L468 300 L514 300 Z" fill="#f2b8c6"/>
+    <path d="M654 100 L695 178 L732 300 L686 300 Z" fill="#f2b8c6"/>
+    <!-- head -->
+    <path d="M600 66
+             C 655 66 692 112 692 160
+             C 692 200 668 228 636 240
+             L 636 258 L 564 258 L 564 240
+             C 532 228 508 200 508 160
+             C 508 112 545 66 600 66 Z" fill="#f2b8c6"/>
+    <!-- angry eyes -->
+    <path d="M548 138 L592 128 L582 158 L548 158 Z" fill="#3a0d14" stroke="none"/>
+    <path d="M652 138 L608 128 L618 158 L652 158 Z" fill="#3a0d14" stroke="none"/>
+    <!-- nose -->
+    <path d="M600 168 L588 188 L612 188 Z" fill="#3a0d14" stroke="none"/>
+    <!-- jagged teeth mouth -->
+    <path d="M546 204 L566 192 L578 214 L592 196 L600 218 L612 196 L626 214 L638 192 L654 204"
+          fill="none"/>
+  </g>
+</svg>
