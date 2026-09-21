@@ -2,9 +2,14 @@
   <img width="100%" src="./banner-night.svg" alt="sojjeoi's GitHub" />
 </div>
 
-<div align="center">
-  <img width="100%" src="./about-me.svg" alt="About Me" />
-</div>
+<h2 align="center"><i>About Me</i></h2>
+
+<p align="center">
+Hello! I'm <b>SoJeong Park</b>, an IT student interested in cloud infrastructure, backend development, and reliable systems.<br/>
+I enjoy learning how services work behind the scenes and building projects using <b>Python, FastAPI, SQL, Kubernetes, and AWS</b>.<br/>
+I'm also exploring AI agents and cloud-native technologies, with a focus on designing practical and stable systems.<br/>
+I continue to learn through hands-on projects and turn what I learn into working solutions.
+</p>
 
 <h2 align="center"><i>Technologies</i></h2>
 
