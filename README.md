@@ -36,7 +36,7 @@ I continue to learn through hands-on projects and turn what I learn into working
 </td>
 <td align="center" valign="middle">
 
-<img src="https://play.pokemonshowdown.com/sprites/ani/chandelure.gif" width="220" alt="Chandelure" />
+<img src="https://play.pokemonshowdown.com/sprites/ani/chandelure.gif" width="220" alt="Chandelure, a Ghost/Fire type Pokémon" />
 
 </td>
 </tr>
