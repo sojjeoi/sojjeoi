@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 150" width="900" height="150">
+  <rect x="15" y="15" width="210" height="50" rx="25" fill="#EEEFF4"/>
+  <circle cx="43" cy="40" r="6" fill="#D8BE53"/>
+  <text x="61" y="46" font-size="18" font-weight="600" fill="#3C4D7A" font-family="Arial, Helvetica, sans-serif">Python</text>
+
+  <rect x="235" y="15" width="210" height="50" rx="25" fill="#EDF2F3"/>
+  <circle cx="263" cy="40" r="6" fill="#4A8377"/>
+  <text x="281" y="46" font-size="18" font-weight="600" fill="#4A8377" font-family="Arial, Helvetica, sans-serif">FastAPI</text>
+
+  <rect x="455" y="15" width="210" height="50" rx="25" fill="#EDEFF4"/>
+  <circle cx="483" cy="40" r="6" fill="#435998"/>
+  <text x="501" y="46" font-size="18" font-weight="600" fill="#435998" font-family="Arial, Helvetica, sans-serif">SQL</text>
+
+  <rect x="675" y="15" width="210" height="50" rx="25" fill="#EFEEF7"/>
+  <circle cx="703" cy="40" r="6" fill="#7658BE"/>
+  <text x="721" y="46" font-size="18" font-weight="600" fill="#7658BE" font-family="Arial, Helvetica, sans-serif">AI Agent</text>
+
+  <rect x="15" y="79" width="210" height="50" rx="25" fill="#E7EBF6"/>
+  <circle cx="43" cy="104" r="6" fill="#5D72C9"/>
+  <text x="61" y="110" font-size="18" font-weight="600" fill="#5D72C9" font-family="Arial, Helvetica, sans-serif">Kubernetes</text>
+
+  <rect x="235" y="79" width="210" height="50" rx="25" fill="#393F5E"/>
+  <circle cx="263" cy="104" r="6" fill="#B1843D"/>
+  <text x="281" y="110" font-size="18" font-weight="600" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif">Amazon AWS</text>
+
+  <rect x="455" y="79" width="210" height="50" rx="25" fill="#F0F1F5"/>
+  <circle cx="483" cy="104" r="6" fill="#D16844"/>
+  <text x="501" y="110" font-size="18" font-weight="600" fill="#3F4762" font-family="Arial, Helvetica, sans-serif">Git</text>
+
+  <rect x="675" y="79" width="210" height="50" rx="25" fill="#EFF0F4"/>
+  <circle cx="703" cy="104" r="6" fill="#0B0B0C"/>
+  <text x="721" y="110" font-size="18" font-weight="600" fill="#383E53" font-family="Arial, Helvetica, sans-serif">GitHub</text>
+</svg>
