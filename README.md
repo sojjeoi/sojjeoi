@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=0:E6D9F7,100:7C3AED&height=150&section=header&text=sojjeoi%27s%20GitHub&fontColor=FFFFFF&fontSize=40&fontAlignY=45" />
+  <img width="100%" src="./banner-night.svg" alt="sojjeoi's GitHub" />
 </div>
 
 <div align="center">
@@ -24,7 +24,7 @@
 </td>
 <td align="center" valign="middle">
 
-<img src="https://play.pokemonshowdown.com/sprites/ani/chandelure.gif" width="120" alt="Chandelure" />
+<img src="https://play.pokemonshowdown.com/sprites/ani/chandelure.gif" width="220" alt="Chandelure" />
 
 </td>
 </tr>
