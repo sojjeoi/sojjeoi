@@ -10,7 +10,8 @@
 
 <img src="https://img.shields.io/badge/Python-EEEFF4?style=for-the-badge&logo=python&logoColor=D8BE53" alt="Python" />
 <img src="https://img.shields.io/badge/C%2B%2B-E9EEF6?style=for-the-badge&logo=c%2B%2B&logoColor=4D6FA5" alt="C++" />
-<img src="https://img.shields.io/badge/SQL-EDEFF4?style=for-the-badge&logo=mysql&logoColor=435998" alt="SQL" />
+<img src="https://img.shields.io/badge/PostgreSQL-393F5E?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/MySQL-393F5E?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 <br /><br />
 <img src="https://img.shields.io/badge/FastAPI-EDF2F3?style=for-the-badge&logo=fastapi&logoColor=4A8377" alt="FastAPI" />
 <img src="https://img.shields.io/badge/Docker-E8F1FB?style=for-the-badge&logo=docker&logoColor=3B82B0" alt="Docker" />
