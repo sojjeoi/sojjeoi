@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="./banner-night.svg" alt="sojjeoi's GitHub" />
+  <img width="100%" src="./banner-night.svg" alt="sojjeoi's GitHub profile banner with a night mountain scene" />
 </div>
 
 <h2 align="center"><i>About Me</i></h2>
